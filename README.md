@@ -1,6 +1,16 @@
 # TXT-Sounder
 TXT-Sounder is python based software to make text to audio file in GUI version
 
+Installation :
+
+    git clone https://github.com/arindamss007/TXT-Sounder/
+    
+    cd TXT-Sounder
+    
+    python Setup.py
+    
+    python3 Txt-Sounder.py
+
 General View :
 
 ![cf](https://user-images.githubusercontent.com/73385029/219882461-1f477bb1-b191-4300-8cc9-38403e077477.jpg)
