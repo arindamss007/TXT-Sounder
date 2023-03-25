@@ -29,6 +29,7 @@ from playsound import playsound
 
 # UI frames & tkinter window
 top = tkinter.Tk()
+top.title("TxT-Sounder v0.1")
 top.geometry("550x225")
 frame = Frame(top)
 frame.pack()
